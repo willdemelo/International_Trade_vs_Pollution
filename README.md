@@ -2,7 +2,7 @@ Using the University of Gothenberg's Quality of Government (QoG) Dataset, I want
 
 Overall, my findings were unexpected in that I had thought pollution and international trade would be positively correlated among countries. However, what I found was that the variables tended to be negatively correlated, or not correlated at all, contrary to what I had read in my research on the matter.
 
-My findings, including all of the visualizations I created, are available to view in .pdf format. Additionally, one can reproduce my code using the jupyter notebook I have.
+My findings, including all of the visualizations I created, are available to view in .html format. Additionally, one can reproduce my code using the jupyter notebook I have.
 
 Bibliography:
 Dahlberg, Stefan, Aksel Sundström, Sören Holmberg, Bo Rothstein, Natalia Alvarado Pachon, Cem Mert Dalli, Rafael Lopez Valverde & Paula Nilsson. 2024. The Quality of Government Basic Dataset, version Jan24. University of Gothenburg: The Quality of Government Institute, https://www.gu.se/en/quality-government doi:10.18157/qogbasjan24
