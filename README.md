@@ -1,8 +1,8 @@
 Using the University of Gothenberg's Quality of Government (QoG) Dataset, I wanted to draw some comparisons between the data available for metrics of international trade and pollution, and compare my findings to what is suggested by current research on the subject.
 
-Overall, my findings were unexpected in that I had thought pollution and international trade would be positively correlated among countries. However, what I found was that the variables tended to be negatively correlated, or not correlated at all, contrary to what I had read in my research on the matter.
+In the articles I had read on the matter, international trade and pollution should be positively correlated. In other words, the more a country conducts trade with other countries, the more polluted it should be. However, the varied metrics I used to operationally define pollution and international trade showed that the variables tended to be negatively correlated, or have weak/non-existent correlations. I concluded that further research into more specific areas of pollution was necessary to explain my findings fully.
 
-My findings, including all of the visualizations I created, are available to view in .html format. To view the vizualizations, please download the .html file and view it in your browser. Additionally, one can reproduce my code using the jupyter notebook I have.
+The visualizations I created for this project are available to view in .html format. As some of the graphs I made are interactable, GitHub cannot properly display them, nor can one use them. To view the vizualizations, please download the .html file and view it in your browser. The jupyter notebook I have for this repository can be used to reproduce my code.
 
 Bibliography:
 
