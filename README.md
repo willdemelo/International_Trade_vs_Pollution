@@ -4,7 +4,7 @@ In the articles I had read on the matter, international trade and pollution shou
 
 The visualizations I created for this project are available to view in .html format. As some of the graphs I made are interactable, GitHub cannot properly display them, nor can one use them. To view the vizualizations, please download the .html file and view it in your browser. The jupyter notebook I have for this repository can be used to reproduce my code.
 
-Bibliography:
+## Bibliography:
 
 Dahlberg, Stefan, Aksel Sundström, Sören Holmberg, Bo Rothstein, Natalia Alvarado Pachon, Cem Mert Dalli, Rafael Lopez Valverde & Paula Nilsson. 2024. The Quality of Government Basic Dataset, version Jan24. University of Gothenburg: The Quality of Government Institute, https://www.gu.se/en/quality-government doi:10.18157/qogbasjan24
 
